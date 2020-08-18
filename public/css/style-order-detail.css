@@ -1,0 +1,48 @@
+.billing-details {
+    padding: 20px;
+    margin-top: 30px;
+  }
+  
+  .billing-details-content {
+    background: #ddf4f6;
+    padding: 30px;
+    border-radius: 20px 0px 20px 20px;
+  
+  }
+  
+  .bil-title {
+    font-weight: 600;
+    font-size: 18px;
+    color: #0e8e92;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+  }
+  
+  .billing-details-content table {
+    width: 100%;
+    color: #0e8e92;
+        border-collapse: collapse;
+  }
+  
+  table tr td {
+    padding: 2px;
+    letter-spacing: 1px;
+  }
+  
+  table tr td i {
+    width: 18px;
+    vertical-align: middle;
+  }
+  
+  td.right-t {
+    text-align: right;
+    font-weight: 600;
+    letter-spacing: 1px;
+  }
+  tr.br-top td {
+    border-top: 1px solid #01ac8f;
+    padding: 5px 0px 0px;
+  }
+  tr.br-top td.right-t {
+    font-size: 16px;
+  }
